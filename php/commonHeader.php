@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Accordions - Accordions represent collapsable component with extended functionality.</title>
+    <title>Admin | Makos InfoTech Pvt Ltd </title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
     <meta name="description" content="Accordions represent collapsable component with extended functionality.">
     <meta name="msapplication-tap-highlight" content="no">
@@ -441,103 +441,96 @@
                             <ul class="vertical-nav-menu">
                                 <li class="app-sidebar__heading">Dashboards</li>
                                 <li>
-                                    <a href="index.php">
-                                        <i class="metismenu-icon pe-7s-rocket"></i>
-                                        Dashboard Example 1
-                                    </a>
+                                    <a href="makos.php">
+                                        <i class="metismenu-icon">
+                                        </i>MakosInfotech</a>
                                 </li>
+                                <li>
+                                    <a href="jobaskit.php">
+                                        <i class="metismenu-icon">
+                                        </i>Jobaskit</a>
+                                </li>
+                                
                                 <li class="app-sidebar__heading">UI Components</li>
-                                <li
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                >
+                                <li>
                                     <a href="#">
                                         <i class="metismenu-icon pe-7s-diamond"></i>
                                         Elements
                                         <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                     </a>
-                                    <ul
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    >
-                                        <li>
-                                            <a href="elements-buttons-standard.php">
-                                                <i class="metismenu-icon"></i>
-                                                Buttons
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="elements-dropdowns.php">
-                                                <i class="metismenu-icon">
-                                                </i>Dropdowns
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="elements-icons.php">
-                                                <i class="metismenu-icon">
-                                                </i>Icons
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="elements-badges-labels.php">
-                                                <i class="metismenu-icon">
-                                                </i>Badges
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="elements-cards.php">
-                                                <i class="metismenu-icon">
-                                                </i>Cards
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="elements-list-group.php">
-                                                <i class="metismenu-icon">
-                                                </i>List Groups
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="elements-navigation.php">
-                                                <i class="metismenu-icon">
-                                                </i>Navigation Menus
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="elements-utilities.php">
-                                                <i class="metismenu-icon">
-                                                </i>Utilities
-                                            </a>
-                                        </li>
-                                    </ul>
+                                <li>
+                                    <a href="index.php">
+                                        <i class="metismenu-icon pe-7s-rocket"></i>
+                                        Dashboard Example 1
+                                    </a>
                                 </li>
-                                <li class="mm-active">
+                                <ul>
+                                    <li>
+                                        <a href="elements-buttons-standard.php">
+                                            <i class="metismenu-icon"></i>
+                                            Buttons
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="elements-dropdowns.php">
+                                            <i class="metismenu-icon">
+                                            </i>Dropdowns
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="elements-icons.php">
+                                            <i class="metismenu-icon">
+                                            </i>Icons
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="elements-badges-labels.php">
+                                            <i class="metismenu-icon">
+                                            </i>Badges
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="elements-cards.php">
+                                            <i class="metismenu-icon">
+                                            </i>Cards
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="elements-list-group.php">
+                                            <i class="metismenu-icon">
+                                            </i>List Groups
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="elements-navigation.php">
+                                            <i class="metismenu-icon">
+                                            </i>Navigation Menus
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="elements-utilities.php">
+                                            <i class="metismenu-icon">
+                                            </i>Utilities
+                                        </a>
+                                    </li>
+                                </ul>
+                                </li>
+                                <li>
                                     <a href="#" aria-expanded="true">
                                         <i class="metismenu-icon pe-7s-car"></i>SEO Component<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                     </a>
-                                    <ul class="mm-collapse mm-show" >
-                                        <li>
-                                            <a href="components-tabs.php">
-                                                <i class="metismenu-icon">
-                                                </i>MakosInfotech</a>
-                                        </li>
-                                        <li>
-                                            <a href="components-accordions.php">
-                                                <i class="metismenu-icon">
-                                                </i>Jobaskit</a>
-                                        </li>
-                                    </ul>
+                                    <!--<ul class="mm-collapse mm-show" >-->
+                                    <!--    <li>-->
+                                    <!--        <a href="components-tabs.php">-->
+                                    <!--            <i class="metismenu-icon">-->
+                                    <!--            </i>MakosInfotech</a>-->
+                                    <!--    </li>-->
+                                    <!--    <li>-->
+                                    <!--        <a href="components-accordions.php">-->
+                                    <!--            <i class="metismenu-icon">-->
+                                    <!--            </i>Jobaskit</a>-->
+                                    <!--    </li>-->
+                                    <!--</ul>-->
                                 </li>
                                 <li  >
                                     <a href="tables-regular.php">
@@ -560,7 +553,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="forms-layouts.php">
+                                    <a href="fsorms-layouts.php">
                                         <i class="metismenu-icon pe-7s-eyedropper">
                                         </i>Forms Layouts
                                     </a>
@@ -578,14 +571,7 @@
                                         </i>ChartJS
                                     </a>
                                 </li>
-                                <li class="app-sidebar__heading">PRO Version</li>
-                                <li>
-                                    <a href="https://dashboardpack.com/theme-details/architectui-dashboard-html-pro/" target="_blank">
-                                        <i class="metismenu-icon pe-7s-graph2">
-                                        </i>
-                                        Upgrade to PRO
-                                    </a>
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
